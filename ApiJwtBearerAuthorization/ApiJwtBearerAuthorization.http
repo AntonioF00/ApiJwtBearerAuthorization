@@ -1,0 +1,6 @@
+@ApiJwtBearerAuthorization_HostAddress = http://localhost:5079
+
+GET {{ApiJwtBearerAuthorization_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
